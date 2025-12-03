@@ -52,6 +52,8 @@
       {"ip_is_private": true, "outbound": "🎯 全球直连"},
       {"clash_mode": "direct", "outbound": "🎯 全球直连"},
       {"clash_mode": "global", "outbound": "GLOBAL"},
+	  {"domain": ["mirrors.apqa.cn"], "outbound": "🚀 默认代理"},
+      {"ip_cidr": ["20.254.1.9/16", "20.253.1.23/16"], "outbound": "🎯 全球直连"},
       {"rule_set": "geosite-ai", "outbound": "🧠 AI"},
       {"rule_set": "geosite-youtube", "outbound": "📹 YouTube"},
       {"rule_set": "geosite-google", "outbound": "🍀 Google"},
@@ -114,7 +116,7 @@
       "enabled": true
     },
     "clash_api": {
-      "external_controller": "127.0.0.1:9095",
+      "external_controller": "127.0.0.1:9090",
       "secret": "",
       "default_mode": "rule"
     }
