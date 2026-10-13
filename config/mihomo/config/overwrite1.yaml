@@ -104,6 +104,7 @@ rules:
   - DOMAIN,kan.waiguotai.top,DIRECT
   - DOMAIN,cdn.staticres.top,DIRECT
   - DOMAIN,picture.shenniaokongque.top,DIRECT
+  - DOMAIN-SUFFIX,ssrdog.com,DIRECT
   #- DOMAIN-SUFFIX,ottiptv.cc,DIRECT
   #- DOMAIN-SUFFIX,goodiptv.club,DIRECT
   - DOMAIN-SUFFIX,skk.moe,DIRECT
