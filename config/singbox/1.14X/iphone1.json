@@ -74,6 +74,7 @@
 	  {"domain_suffix": [".goodiptv.club"], "outbound": "直连"},
 	  {"domain_suffix": [".skk.moe"], "outbound": "直连"},
 	  {"domain_suffix": [".ottiptv.cc"], "outbound": "直连"},
+	  {"domain_suffix": [".ssrdog.com"], "outbound": "直连"},
       {"rule_set": "geosite-category-ai-!cn", "outbound": "AI"},
       {"rule_set": "geosite-youtube", "outbound": "YouTube"},
       {"rule_set": "geosite-google", "outbound": "Google"},
